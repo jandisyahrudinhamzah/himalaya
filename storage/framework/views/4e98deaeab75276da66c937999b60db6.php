@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampppp\htdocs\himalaya\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
